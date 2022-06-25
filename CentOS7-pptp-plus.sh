@@ -1,6 +1,6 @@
 #!/bin/bash
-#    Setup Simple PPTP VPN server for CentOS 7 on Host1plus
-#    Copyright (C) 2015-2016 Danyl Zhang <1475811550@qq.com> and contributors
+#    Setup Simple PPTP VPN server for CentOS 7 on plus
+#    Copyright (C) 2015-2016 Danyl Zhang <****@**.com> and contributors
 #
 #    This program is free software; you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
